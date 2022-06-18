@@ -8,7 +8,6 @@ public class A {
 
 		System.out.println("A_devB");
 
-
 		System.out.println("A_devC");
 
 	}
