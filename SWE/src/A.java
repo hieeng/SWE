@@ -4,5 +4,8 @@ public class A {
 	{
 		System.out.println("A1");
 		System.out.println("A_devM");
+
+		System.out.println("A_devB");
+
 	}
 }
